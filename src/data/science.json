@@ -1,0 +1,74 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "question": "You enter the Ancient Lab of Origins. A glowing symbol shows tiny particles swirling. What invisible building blocks of all matter is it hinting at?",
+      "options": ["Atoms", "Clouds", "Mountains", "Stars"],
+      "answer": "Atoms",
+      "hint": "Think super tiny—like the OG building blocks of everything around you."
+    },
+    {
+      "level": 2,
+      "question": "Inside the Forest of Life, you find a giant tree with glowing patterns. The patterns represent the basic units that make every living thing. What are they?",
+      "options": ["Cells", "Rocks", "Flames", "Echoes"],
+      "answer": "Cells",
+      "hint": "These are the tiny living rooms inside every organism."
+    },
+    {
+      "level": 3,
+      "question": "A mysterious canyon causes your compass to pull in strange directions. The guide says it’s due to an invisible push or pull acting on the compass. What is this phenomenon?",
+      "options": ["Forces", "Dreams", "Light rays", "Whispers"],
+      "answer": "Forces",
+      "hint": "What makes things move, stop, or change direction?"
+    },
+    {
+      "level": 4,
+      "question": "You discover an old alchemist’s vault filled with symbols like H, O, and Fe. These symbols represent the pure forms of matter. What are they called?",
+      "options": ["Elements", "Creatures", "Runes", "Mixtures"],
+      "answer": "Elements",
+      "hint": "They're the fundamental ingredients of the universe—listed in the periodic table."
+    },
+    {
+      "level": 5,
+      "question": "In the Crystal Cavern, you see a sculpture showing a nucleus surrounded by spinning paths. What model of matter is this referencing?",
+      "options": ["Atoms", "Planets", "Cells", "Crystals"],
+      "answer": "Atoms",
+      "hint": "These tiny structures have protons, neutrons, and electrons."
+    },
+    {
+      "level": 6,
+      "question": "Inside the Bio Temple, floating holograms show tiny compartments working together, creating life. What are these compartments?",
+      "options": ["Cells", "Drops", "Shadows", "Stones"],
+      "answer": "Cells",
+      "hint": "Your entire body is made of trillions of these."
+    },
+    {
+      "level": 7,
+      "question": "Crossing the Bridge of Motion, you feel a sudden gust pushing you sideways. This invisible push is best described as what?",
+      "options": ["Forces", "Time", "Heat", "Light"],
+      "answer": "Forces",
+      "hint": "Newton would be proud if you get this one."
+    },
+    {
+      "level": 8,
+      "question": "In the Mage’s Chamber, glowing cubes each represent a pure substance that can’t be broken down further. What do scientists call these?",
+      "options": ["Elements", "Potions", "Spices", "Alloys"],
+      "answer": "Elements",
+      "hint": "Look at the periodic table for clues."
+    },
+    {
+      "level": 9,
+      "question": "A cosmic portal shows swirling particles forming everything in the universe. The portal whispers: 'All matter begins here.' What is it referring to?",
+      "options": ["Atoms", "Planets", "Dust", "Nebulas"],
+      "answer": "Atoms",
+      "hint": "Think of them as the smallest units that still keep their chemical identity."
+    },
+    {
+      "level": 10,
+      "question": "You step into the Chamber of Life where floating orbs divide and multiply endlessly. What fundamental units of living organisms are you witnessing?",
+      "options": ["Cells", "Moons", "Minerals", "Lights"],
+      "answer": "Cells",
+      "hint": "These guys divide, grow, and keep every organism alive."
+    }
+  ]
+}

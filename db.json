@@ -1,0 +1,35 @@
+{
+  "users": [],
+  "leaderboard": [],
+  "progress": [],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Science",
+      "description": "Explore scientific wonders and discoveries",
+      "icon": "🔬",
+      "color": "#4CAF50"
+    },
+    {
+      "id": 2,
+      "name": "Jungle", 
+      "description": "Discover wildlife and nature mysteries",
+      "icon": "🐾",
+      "color": "#FF9800"
+    },
+    {
+      "id": 3,
+      "name": "Math",
+      "description": "Solve mathematical puzzles and challenges",
+      "icon": "➗",
+      "color": "#2196F3"
+    },
+    {
+      "id": 4,
+      "name": "History",
+      "description": "Journey through historical events and figures",
+      "icon": "🏛",
+      "color": "#9C27B0"
+    }
+  ]
+}

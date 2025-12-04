@@ -1,0 +1,74 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "question": "What is the lion commonly known as?",
+      "options": ["King of the Jungle", "Forest Dancer", "Silent Hunter", "Night Flyer"],
+      "answer": "King of the Jungle",
+      "hint": "He is famous for his loud roar and royal behavior."
+    },
+    {
+      "level": 2,
+      "question": "Which part of an elephant is used for grabbing food?",
+      "options": ["Trunk", "Tail", "Ear", "Tusk"],
+      "answer": "Trunk",
+      "hint": "It works like a long, flexible hand."
+    },
+    {
+      "level": 3,
+      "question": "What special ability helps eagles spot prey from far away?",
+      "options": ["Sharp vision", "Fast running", "Strong smell", "Loud roar"],
+      "answer": "Sharp vision",
+      "hint": "They can see 4 to 5 times better than humans."
+    },
+    {
+      "level": 4,
+      "question": "Where do frogs usually lay their eggs?",
+      "options": ["In water", "On tree bark", "Inside caves", "On dry leaves"],
+      "answer": "In water",
+      "hint": "Tadpoles swim before becoming adult frogs."
+    },
+    {
+      "level": 5,
+      "question": "What is the lion’s primary source of food?",
+      "options": ["Meat", "Grass", "Berries", "Honey"],
+      "answer": "Meat",
+      "hint": "Lions are carnivores."
+    },
+    {
+      "level": 6,
+      "question": "Which feature helps elephants keep cool?",
+      "options": ["Large ears", "Small feet", "Short tail", "Sharp claws"],
+      "answer": "Large ears",
+      "hint": "They flap them to release body heat."
+    },
+    {
+      "level": 7,
+      "question": "What do eagles mainly use to catch their prey?",
+      "options": ["Talons", "Beak", "Wings", "Feathers"],
+      "answer": "Talons",
+      "hint": "Their claws are extremely powerful."
+    },
+    {
+      "level": 8,
+      "question": "Frogs can breathe through their skin when?",
+      "options": ["Under water", "Running fast", "Sleeping on land", "During winter only"],
+      "answer": "Under water",
+      "hint": "Their skin helps them absorb oxygen in wet places."
+    },
+    {
+      "level": 9,
+      "question": "What helps a lion roar so loudly?",
+      "options": ["Strong vocal cords", "Large teeth", "Long tail", "Fast legs"],
+      "answer": "Strong vocal cords",
+      "hint": "Their roar can travel up to 8 km!"
+    },
+    {
+      "level": 10,
+      "question": "What do elephants use their tusks for?",
+      "options": ["Digging and defense", "Flying", "Swimming", "Storing water"],
+      "answer": "Digging and defense",
+      "hint": "They are made of ivory and grow throughout life."
+    }
+  ]
+}

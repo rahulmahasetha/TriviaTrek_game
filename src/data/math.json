@@ -1,0 +1,74 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "question": "What is the result of adding 25 + 17?",
+      "options": ["42", "30", "12", "50"],
+      "answer": "42",
+      "hint": "Add tens first, then units."
+    },
+    {
+      "level": 2,
+      "question": "Which shape has 3 sides?",
+      "options": ["Triangle", "Square", "Circle", "Pentagon"],
+      "answer": "Triangle",
+      "hint": "It is the simplest polygon."
+    },
+    {
+      "level": 3,
+      "question": "What is the value of x in the equation x + 5 = 12?",
+      "options": ["7", "12", "5", "17"],
+      "answer": "7",
+      "hint": "Subtract 5 from both sides."
+    },
+    {
+      "level": 4,
+      "question": "What is 1/2 + 1/4?",
+      "options": ["3/4", "1/4", "1/2", "1"],
+      "answer": "3/4",
+      "hint": "Convert fractions to same denominator."
+    },
+    {
+      "level": 5,
+      "question": "What is 19 + 23?",
+      "options": ["42", "30", "50", "60"],
+      "answer": "42",
+      "hint": "Add tens and units separately."
+    },
+    {
+      "level": 6,
+      "question": "How many sides does a hexagon have?",
+      "options": ["6", "5", "7", "8"],
+      "answer": "6",
+      "hint": "Think of the shape of a honeycomb cell."
+    },
+    {
+      "level": 7,
+      "question": "If 3x = 21, what is the value of x?",
+      "options": ["7", "3", "21", "9"],
+      "answer": "7",
+      "hint": "Divide both sides by 3."
+    },
+    {
+      "level": 8,
+      "question": "Which fraction is equal to 0.5?",
+      "options": ["1/2", "1/3", "2/3", "3/4"],
+      "answer": "1/2",
+      "hint": "Half means 0.5."
+    },
+    {
+      "level": 9,
+      "question": "What is 45 + 55?",
+      "options": ["100", "80", "90", "110"],
+      "answer": "100",
+      "hint": "Add the tens first: 40 + 50."
+    },
+    {
+      "level": 10,
+      "question": "Which shape has all sides equal?",
+      "options": ["Square", "Rectangle", "Triangle", "Oval"],
+      "answer": "Square",
+      "hint": "Opposite sides AND all sides same length."
+    }
+  ]
+}

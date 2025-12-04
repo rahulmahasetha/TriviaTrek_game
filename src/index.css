@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Your existing styles */
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+body { 
+    font-family: Arial, Helvetica, sans-serif; margin:0; padding:0; background:#f5f5f7; }
+.app-header { padding:16px; background:#3b82f6; color:white; display:flex; align-items:center; gap:12px; }
+.container { padding:20px; max-width:1100px; margin:0 auto; }
+.cards { display:flex; gap:16px; flex-wrap:wrap; }
+.card { background:white; border-radius:8px; padding:16px; width:240px; box-shadow:0 2px 6px rgba(0,0,0,0.1); }
+.map-wrap { position:relative; width:100%; height:640px; background:#ddd; border-radius:8px; overflow:hidden; }
+.map-img { width:100%; height:100%; object-fit:cover; display:block; }
+.level-marker { position:absolute; width:42px; height:42px; border-radius:50%; background:#ffed4a; display:flex; align-items:center; justify-content:center; cursor:pointer; box-shadow:0 2px 6px rgba(0,0,0,0.2); }
+.locked { filter:grayscale(1) opacity(0.6); }
+.mcq-card { background:white; padding:16px; border-radius:8px; box-shadow:0 2px 10px rgba(0,0,0,0.12); max-width:540px; }
+.hint { margin-top:8px; font-style:italic; color:#444; }

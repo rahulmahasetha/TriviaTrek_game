@@ -1,0 +1,74 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "question": "Which of the following is related to the Ancient period?",
+      "options": ["Stone tools", "Computers", "Skyscrapers", "Trains"],
+      "answer": "Stone tools",
+      "hint": "Think about very early human inventions."
+    },
+    {
+      "level": 2,
+      "question": "Which feature best represents the Medieval period?",
+      "options": ["Castles", "Smartphones", "Spaceships", "Electric cars"],
+      "answer": "Castles",
+      "hint": "Kings, queens, knights lived here."
+    },
+    {
+      "level": 3,
+      "question": "Which invention belongs to the Modern period?",
+      "options": ["Television", "Chariots", "Stone wheels", "Bronze weapons"],
+      "answer": "Television",
+      "hint": "This invention changed entertainment forever."
+    },
+    {
+      "level": 4,
+      "question": "The Renaissance period is known for advances in what?",
+      "options": ["Art and learning", "Stone cutting", "Cave paintings", "Hunting tools"],
+      "answer": "Art and learning",
+      "hint": "Leonardo da Vinci is from this era."
+    },
+    {
+      "level": 5,
+      "question": "Which civilization belongs to the Ancient period?",
+      "options": ["Egyptian Civilization", "Industrial Revolution", "Digital Age", "Space Exploration"],
+      "answer": "Egyptian Civilization",
+      "hint": "Think pyramids."
+    },
+    {
+      "level": 6,
+      "question": "Which activity is associated with the Medieval period?",
+      "options": ["Knight tournaments", "Electricity usage", "Gunpowder wars", "Moon landing"],
+      "answer": "Knight tournaments",
+      "hint": "Warriors fought for honor."
+    },
+    {
+      "level": 7,
+      "question": "Which event belongs to the Modern period?",
+      "options": ["Invention of the Internet", "Building of Stonehenge", "Discovery of fire", "Use of clay tablets"],
+      "answer": "Invention of the Internet",
+      "hint": "This connects the whole world today."
+    },
+    {
+      "level": 8,
+      "question": "Which famous figure is part of the Renaissance?",
+      "options": ["Leonardo da Vinci", "Albert Einstein", "Alexander the Great", "Neil Armstrong"],
+      "answer": "Leonardo da Vinci",
+      "hint": "Painter of the Mona Lisa."
+    },
+    {
+      "level": 9,
+      "question": "Which invention belongs to Ancient times?",
+      "options": ["The wheel", "Robots", "Airplanes", "Mobile phones"],
+      "answer": "The wheel",
+      "hint": "One of the earliest and most important inventions."
+    },
+    {
+      "level": 10,
+      "question": "Which structure is related to Medieval Europe?",
+      "options": ["Cathedrals", "Skyscrapers", "Space stations", "Digital screens"],
+      "answer": "Cathedrals",
+      "hint": "Large religious buildings with tall towers."
+    }
+  ]
+}
